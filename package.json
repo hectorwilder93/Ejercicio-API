@@ -12,7 +12,7 @@
     "url": "https://github.com/ju4nqleyton/tt-fetch/issues"
   },
   "dependencies": {
-    "express": "5.1.0"
+    "express": "4.21.0"
   },
   "homepage": "https://github.com/ju4nqleyton/tt-fetch#readme",
   "description": ""
