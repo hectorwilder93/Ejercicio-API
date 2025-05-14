@@ -1,0 +1,16 @@
+{
+  "name": "fetching",
+  "version": "1.0.0",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ju4nqleyton/tt-fetch/issues"
+  },
+  "homepage": "https://github.com/ju4nqleyton/tt-fetch#readme",
+  "description": ""
+}
