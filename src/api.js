@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 const productRoutes=require('./routes/product.routes');
-const userroutes=require('./routes/user.routes')
+const userroutes=require('./routes/user.routes');
 
 app.get('/api',(req, res)=>{
     res.send("Hola estamos en la cun")
