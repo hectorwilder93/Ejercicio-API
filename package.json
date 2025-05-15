@@ -8,12 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ju4nqleyton/tt-fetch/issues"
-  },
+  "bugs": {},
   "dependencies": {
     "express": "4.21.0"
   },
-  "homepage": "https://github.com/ju4nqleyton/tt-fetch#readme",
+  "homepage": "",
   "description": ""
 }
