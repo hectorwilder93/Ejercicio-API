@@ -10,7 +10,7 @@ app.get('/api',(req, res)=>{
 })
 
 app.use('/products',productRoutes)
-app.use('/login',userroutes)
+app.use('/login', userroutes)
 
 
 app.listen(port,()=>{
