@@ -6,9 +6,9 @@ require("dotenv").config();
 
 const productRoutes=require('./routes/product.routes');
 const userroutes=require('./routes/user.routes');
-mongoose.connect(process.env.URL_CONNECTION).then((db)=>{
-     console.log("Base de datos conectada");
-});
+mongoose.connect(process.env.URL_CONNECTION).then((db)=>
+     console.log("Base de datos conectada")
+);
 
 app.get('/api',(req, res)=>{
     res.send("Hola estamos en la cun")
