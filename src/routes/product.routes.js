@@ -1,4 +1,5 @@
 const router= require("express").Router();
+const products= require("../models/product");
 router.post('/create', (req, res)=>{
     res.status(200).json({"message":"Estamos realizando una prueba"});
 });

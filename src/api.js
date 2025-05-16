@@ -14,6 +14,8 @@ app.get('/api',(req, res)=>{
     res.send("Hola estamos en la cun")
 })
 
+
+
 app.use('/products',productRoutes)
 app.use('/login', userroutes)
 
